@@ -1,2 +1,3 @@
-# sistema-control-escolar
-Sistema de control escolar
+# Sistema de Control Escolar
+
+autor: Gerardo Mathus @gemathus
