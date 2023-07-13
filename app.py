@@ -7,7 +7,6 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-
 @app.route('/estudiantes')
 def estudiantes():
     # leer los estudaintes de la base de datos
